@@ -135,12 +135,12 @@
       <tr>
         <td bgcolor="#f1f1f6" height="53" valign="center">
           <p align="center">
-            Copyright &copy;2018 
-            <a href="http://www.briup.com.cn">
+            Copyright &copy;2020-2021
+            <a href="">
               <b>
-                <span face="Verdana,">tyutlab</span>
+                <span face="Verdana,">ILAB </span>
               </b>
-              <span color=#CC0000>.com.cn</span>
+              <span color=#CC0000>PRO</span>
               <br />
             </a>
           </p>
